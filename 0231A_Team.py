@@ -5,3 +5,6 @@ for i in range(n):
     if sum(temp) >1:
         count += 1
 print(count)
+
+# problems
+# I used sum to represent the count previously
